@@ -1,8 +1,11 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.slg_timkreatif.twa",
-        "sha256_cert_fingerprints": ["6D:30:7B:E6:9D:D4:89:46:BE:36:E6:C1:3F:8D:1B:F9:87:36:F5:7E:78:2C:50:AA:48:03:DC:6F:4E:CB:0C:FF"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.slg_timkreatif.twa",
+    "sha256_cert_fingerprints": [
+      "6D:30:7B:E6:9D:D4:89:46:BE:36:E6:C1:3F:8D:1B:F9:87:36:F5:7E:78:2C:50:AA:48:03:DC:6F:4E:CB:0C:FF",
+      "52:11:17:6C:95:0F:2F:0D:04:40:A8:61:27:5D:9E:97:1A:C8:84:04:00:B2:8A:C1:A8:7E:71:97:95:4E:0B:82"
+    ]
+  }
+}]
