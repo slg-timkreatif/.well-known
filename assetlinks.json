@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.slg_timkreatif.twa",
-        "sha256_cert_fingerprints": ["75:BF:46:6C:68:51:37:DD:22:52:43:E2:C2:66:20:3C:FB:E1:8E:B8:5F:AE:7C:87:FD:DB:02:13:42:42:86:A0"]
+        "sha256_cert_fingerprints": ["2E:6E:60:49:9E:84:C7:4A:AD:D3:11:C1:10:D8:FB:25:1C:65:9F:1D:65:34:C1:18:80:10:45:7F:6A:57:C6:92"]
       }
     }]
